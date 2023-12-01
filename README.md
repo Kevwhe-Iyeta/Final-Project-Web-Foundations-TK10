@@ -10,9 +10,9 @@ You’ve learned a ton about HTML, CSS, and the web in this course. The final pr
 [Update this file to describe your project! You can remove the instrcutions in the brackets]
 
 ## Project Authors
-- [Your name here]
+- **VIVIAN IYETA**
 - [Your name here]
 - [Your name here]
 
 ## Description
-[Any notes you'd like people to know about your project]
+This is a project focused on enlighting people on the benefit of herbs in our diets and everyday medicine.
